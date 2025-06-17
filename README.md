@@ -42,15 +42,15 @@ Uber faces a supply-demand mismatch during peak hours—either due to driver can
 
 📷 Visual Insights
 
-### 📊 Hourly Ride Request Status
+📊 Hourly Ride Request Status
 
-Hourly Ride Status ("C:\Users\tingu\Downloads\UBER SUPPLY DEMAND GAPS\hourly_status_plot.png")
+![Hourly Ride Status](plots/hourly_status_plot.png)
 
 ---
 
-### ⏰ Request Status by Time Slot
+⏰ Request Status by Time Slot
 
-Time Slot Status ("C:\Users\tingu\Downloads\UBER SUPPLY DEMAND GAPS\time_slot_status_plot.png")
+![Time Slot Status](plots/time_slot_status_plot.png)
 
 
 ---
